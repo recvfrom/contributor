@@ -1,1 +1,16 @@
+title: Contributor
+author: Cisco Talos
+email: todo@example.com
+description: > 
+  The Contributor project aims to help people gain experience analyzing
+  real-world malware and contribute valuable detection content to defend 
+  the millions of Snort and ClamAV users worldwide.  Join us in the fight
+  against malware!
+
+header_pages:
+ - getting-started.md
+ - knowledge-base.md
+ - hall-of-fame.md
+ - about.md
+
 theme: minima
