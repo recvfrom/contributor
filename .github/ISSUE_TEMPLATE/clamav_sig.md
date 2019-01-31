@@ -2,7 +2,7 @@
 name: ClamAV Sig Project Proposal
 about: Use this template for proposing a new ClamAV signature project
 title: ''
-labels: ''
+labels: 'ClamAV'
 assignees: ''
 
 ---

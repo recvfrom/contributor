@@ -2,7 +2,7 @@
 name: Snort Rule Project Proposal
 about: Use this template for proposing a new Snort rule project
 title: ''
-labels: ''
+labels: 'Snort'
 assignees: ''
 
 ---
