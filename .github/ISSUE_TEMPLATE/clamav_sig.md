@@ -30,4 +30,7 @@ Estimate how difficult this project will be, and communicate any potential diffi
 **Technical Info**
 Post any hashes, useful metadata, and other technical information that would be useful to someone working on this.
 
-IMPORTANT: If the malware samples are attached to this ticket, they MUST be inside a password-protected .zip file with a unique password.  Post the password in this section.
+IMPORTANT: For making the malware available to download by participants, the
+preferred method is to put the samples in a password-protect zip file and
+link to it from the ticket.  We DON'T want to attach malware directly to this
+ticket.
