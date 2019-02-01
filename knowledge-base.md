@@ -4,12 +4,12 @@ title: Knowledge Base
 permalink: /knowledge/
 ---
 ### Malware
- - Malware Analysis Fundamentals
- - [Writing ClamAV Signatures](knowledge/writing-clamav-sigs)
+ - [Malware Analysis Fundamentals](knowledge/malware-analysis-fundamentals)
+ - [Writing ClamAV Signatures](knowledge/contributing-clamav-sigs)
 
 ### Network Traffic
- - Network Traffic Analysis Fundamentals
- - [Writing Snort Rules](knowledge/writing-snort-rules)
+ - [Network Traffic Analysis Fundamentals](knowledge/traffic-analysis-fundamentals)
+ - [Writing Snort Rules](knowledge/contributing-snort-rules)
 
 ### Other Resources
  - Setting up an Analysis Environment
