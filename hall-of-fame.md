@@ -7,10 +7,13 @@ Below we recognize everyone who contributed to Snort and ClamAV through this pro
 
 (TODO it'd be cool to have a leaderboard if we have enough participation)
 
-### Snort Contributors
+### Contributors
 
-(TODO Add an example)
+#### Andrew Williams
+- Org: Cisco Talos
+- Website: <https://github.com/recvfrom>
+- ClamAV Contributions:
+    - [Vbs.Malware.Hworm-6735698-0](https://github.com/recvfrom/contributor/issues/2)
 
-### ClamAV Contributors
-
-(TODO Add an example)
+(TODO Maybe also include an 'Other Honors' section and recognize mentors and
+people that help others)
