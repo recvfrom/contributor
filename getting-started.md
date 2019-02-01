@@ -5,6 +5,8 @@ permalink: /start/
 ---
 This page will walk you through getting started with the Contributor program
 
+To jump right to the list of project proposals, click [here](https://github.com/recvfrom/contributor/issues).
+
 ### 0. Prerequisites
  - Sign up for a GitHub account
  - Join the slack space
