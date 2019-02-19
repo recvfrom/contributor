@@ -9,14 +9,16 @@ The Contributor project aims to help people:
  - Apply their skills by analyzing [real-world malware](https://github.com/recvfrom/contributor/issues)
  - Write detection content for Snort and ClamAV
 
-The project is run by [Cisco Talos](https://www.talosintelligence.com), the maintainers
-of the official ClamAV Virus Database and the official Snort community ruleset.
+The project is run by [Cisco Talos](https://www.talosintelligence.com), the
+maintainers of ClamAV, Snort, the official ClamAV Virus Database, and the
+official Snort community ruleset.
 
 (TODO link to ClamAV and Snort at the first usage, and insert the copyright mark)
 
 ### How it Works
 1. Project maintainers identify good entry-level malware analysis / network
-traffic analysis projects and advertise them in the GitHub issue tracker (TODO link to it)
+traffic analysis projects and advertise them in the GitHub
+[issue tracker](https://github.com/recvfrom/contributor/issues)
 
 2. Participants pick an interesting project proposal and indicate their
 interest in working on it in the issue comments.
@@ -24,13 +26,25 @@ interest in working on it in the issue comments.
 3. The maintainers assign the issue to the interested participant(s), and they
 begin working on it (using training materials in the
 [Knowledge Base](../knowledge/) and with help from the community via the
-Contributor Slack space (TODO link to it).
+[Contributor Slack Space](https://contributorproject.slack.com) (Instructions
+on joining can be found on the [Getting Started](../start/) page).
 
 4. Participants submit their findings and detection content for review
 
 5. Upon successful review, the detection content is published in the Snort / 
 ClamAV community rulesets, and participants add their names to the
 [Hall of Fame](../contributions/)
+
+### Current Status
+This project is still being launched, but we hope to enter alpha testing soon.
+Once we've conducted alpha testing with a handful of individuals contributing
+through the project, we plan to advertise the project and solicit more
+participants.
+
+### Future Plans
+This project would also lend itself nicely to advertising meaningful Snort and
+ClamAV software development projects for interested individuals to work on. If
+this is something you are interested in, let us know!
 
 ### Frequently Asked Questions
 #### What is Snort?
