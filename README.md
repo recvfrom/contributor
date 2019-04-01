@@ -1,5 +1,5 @@
 # contributor
-PoC for a program to help people contribute detection content to Snort and ClamAV
+PoC for a program to help people contribute detection content (and maybe small bug fixes / code improvements) to Snort and ClamAV
 
 For more information, visit the [About](https://recvfrom.github.io/contributor/about/) page
 
