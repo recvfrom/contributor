@@ -4,16 +4,13 @@ title: About
 permalink: /about/
 ---
 ### Project Overview
+
+NOTE: This is a PoC that I haven't had time to launch... but maybe one day!
+
 The Contributor project aims to help people:
  - [Learn](../knowledge/) how to analyze malware and malicious network traffic
  - Apply their skills by analyzing [real-world malware](https://github.com/recvfrom/contributor/issues)
  - Write detection content for Snort and ClamAV
-
-The project is run by [Cisco Talos](https://www.talosintelligence.com), the
-maintainers of ClamAV, Snort, the official ClamAV Virus Database, and the
-official Snort community ruleset.
-
-(TODO link to ClamAV and Snort at the first usage, and insert the copyright mark)
 
 ### How it Works
 1. Project maintainers identify good entry-level malware analysis / network
